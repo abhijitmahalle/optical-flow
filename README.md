@@ -9,4 +9,6 @@ Results can be found in the "results" directory.
 <img src=https://github.com/abhijitmahalle/optical_flow/blob/master/gif/output_10mph.gif width=100% height=100%>
 
 ## Results
-<img src=https://github.com/abhijitmahalle/optical_flow/blob/master/results/accuracy/10mph.png width=33% height=33%> <img src=https://github.com/abhijitmahalle/optical_flow/blob/master/results/accuracy/20mph.png width=33% height=33%><img src=https://github.com/abhijitmahalle/optical_flow/blob/master/results/accuracy/25mph.png width=33% height=33%>
+<img src=https://github.com/abhijitmahalle/optical_flow/blob/master/results/accuracy/10mph.png width=45% height=45%> <img src=https://github.com/abhijitmahalle/optical_flow/blob/master/results/accuracy/20mph.png width=45% height=45%>
+<p align="center">
+<img src=https://github.com/abhijitmahalle/optical_flow/blob/master/results/accuracy/25mph.png width=45% height=45%>
