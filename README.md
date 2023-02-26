@@ -1,5 +1,5 @@
 # Optical flow to detect vehicle and track its speed
-This repository contains code to detect and track a moving vechilce using Sparse Optical Flow. The moving vechile is detected by taking the difference between two consecutive images, contour detection, SIFT feature matching, and pixel displacement. The speed of the vehicle was computed by taking the average of the pixel displacement of various features of the vehicle detected using SIFT. Achieved an accuracy of 99% for various speeds.
+This repository contains code to detect and track a moving vechilce using Sparse Optical Flow. The moving vechile is detected by taking the difference between two consecutive images, contour detection, SIFT feature matching, and pixel displacement. The speed of the vehicle was computed by taking the average of the pixel displacement of various features of the vehicle detected using SIFT. Achieved an accuracy of 99% for various speeds. The program can be executed in real-time and can find application in speed-limit enforcement.
 
 Results can be found in the "results" directory.
 ## Flowchart
